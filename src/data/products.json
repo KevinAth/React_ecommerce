@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "titulo": "laptop",
+      "descripcion": "Una laptop ultradelgada y liviana con pantalla de 13.3 pulgadas y procesador Intel Core i7.",
+      "precio": 1299.99,
+      "categoria": "Electrónica",
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/silver/notebook-xps-13-9345-t-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "cantidad": 0
+    },
+    {
+      "id": 2,
+      "titulo": "Smartphone Samsung Galaxy S21",
+      "descripcion": "El último modelo de Samsung con pantalla AMOLED de 6.2 pulgadas, 128GB de almacenamiento y cámara de 64MP.",
+      "precio": 799.99,
+      "categoria": "Electrónica",
+      "img": "https://th.bing.com/th/id/OIP.3iRYOSf6W5lk-EcweYMnAwHaHY?rs=1&pid=ImgDetMain",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "titulo": "Auriculares Bose QuietComfort 35",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido y hasta 20 horas de duración de batería.",
+      "precio": 299.99,
+      "categoria": "Accesorios",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_628584-MLA45258940190_032021-O.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "titulo": "Smartwatch Apple Watch Series 6",
+      "descripcion": "Reloj inteligente con monitor de oxígeno en sangre, GPS y diseño resistente al agua.",
+      "precio": 399.99,
+      "categoria": "Electrónica",
+      "img": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series-6-stainless-steel-gold-case_09152020_inline.jpg.large.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "titulo": "Cámara Canon EOS R5",
+      "descripcion": "Cámara sin espejo de alta resolución con sensor de 45MP y capacidad de grabación de video 8K.",
+      "precio": 3899.99,
+      "categoria": "Fotografía",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjmMZbJXcQ3nXPMyMUT1BteaGCyhLmzHm2Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "titulo": "Laptop Dell XPS 13",
+      "descripcion": "Una laptop ultradelgada y liviana con pantalla de 13.3 pulgadas y procesador Intel Core i7.",
+      "precio": 1299.99,
+      "categoria": "Electrónica",
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/silver/notebook-xps-13-9345-t-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "titulo": "Laptop Dell XPS 13",
+      "descripcion": "Una laptop ultradelgada y liviana con pantalla de 13.3 pulgadas y procesador Intel Core i7.",
+      "precio": 1299.99,
+      "categoria": "Electrónica",
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/silver/notebook-xps-13-9345-t-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "titulo": "Laptop Dell XPS 13",
+      "descripcion": "Una laptop ultradelgada y liviana con pantalla de 13.3 pulgadas y procesador Intel Core i7.",
+      "precio": 1299.99,
+      "categoria": "Electrónica",
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/silver/notebook-xps-13-9345-t-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "titulo": "Laptop Dell XPS 13",
+      "descripcion": "Una laptop ultradelgada y liviana con pantalla de 13.3 pulgadas y procesador Intel Core i7.",
+      "precio": 1299.99,
+      "categoria": "Electrónica",
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/9345/media-gallery/touch/silver/notebook-xps-13-9345-t-silver-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=679&qlt=100,1&resMode=sharp2&size=679,402&chrss=full",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "titulo": "Cámara Canon EOS R5",
+      "descripcion": "Cámara sin espejo de alta resolución con sensor de 45MP y capacidad de grabación de video 8K.",
+      "precio": 3899.99,
+      "categoria": "Fotografía",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjmMZbJXcQ3nXPMyMUT1BteaGCyhLmzHm2Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 11,
+      "titulo": "Cámara Canon EOS R5",
+      "descripcion": "Cámara sin espejo de alta resolución con sensor de 45MP y capacidad de grabación de video 8K.",
+      "precio": 3899.99,
+      "categoria": "Fotografía",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjmMZbJXcQ3nXPMyMUT1BteaGCyhLmzHm2Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 12,
+      "titulo": "Cámara Canon EOS R5",
+      "descripcion": "Cámara sin espejo de alta resolución con sensor de 45MP y capacidad de grabación de video 8K.",
+      "precio": 3899.99,
+      "categoria": "Fotografía",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjmMZbJXcQ3nXPMyMUT1BteaGCyhLmzHm2Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 13,
+      "titulo": "Cámara Canon EOS R5",
+      "descripcion": "Cámara sin espejo de alta resolución con sensor de 45MP y capacidad de grabación de video 8K.",
+      "precio": 3899.99,
+      "categoria": "Fotografía",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjmMZbJXcQ3nXPMyMUT1BteaGCyhLmzHm2Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 14,
+      "titulo": "Cámara Canon EOS R5",
+      "descripcion": "Cámara sin espejo de alta resolución con sensor de 45MP y capacidad de grabación de video 8K.",
+      "precio": 3899.99,
+      "categoria": "Fotografía",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjmMZbJXcQ3nXPMyMUT1BteaGCyhLmzHm2Q&s",
+      "cantidad": 1
+    },
+    {
+      "id": 15,
+      "titulo": "Smartphone Samsung Galaxy S21",
+      "descripcion": "El último modelo de Samsung con pantalla AMOLED de 6.2 pulgadas, 128GB de almacenamiento y cámara de 64MP.",
+      "precio": 799.99,
+      "categoria": "Electrónica",
+      "img": "https://th.bing.com/th/id/OIP.3iRYOSf6W5lk-EcweYMnAwHaHY?rs=1&pid=ImgDetMain",
+      "cantidad": 1
+    }
+  ]
+}
